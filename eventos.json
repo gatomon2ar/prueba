@@ -1,3 +1,4 @@
+{"inicio":0,"parametros":{"campos":["nombre_evento","descripcion","dia","mes","hora","provincia","localidad"]},"eventos":[
 { "nombre_evento": "Festival por aniversario del Club Atlético Libertad",
 "descripcion": "Evento familiar con músicos locales",
 "dia": 12,
@@ -12,4 +13,4 @@
 "mes": "julio",
 "hora": "20:30" ,
 "provincia": "Salta",
-"localidad": "Salta" }
+"localidad": "Salta" }]
