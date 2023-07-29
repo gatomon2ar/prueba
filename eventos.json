@@ -6,11 +6,19 @@
 "hora": "15",
 "provincia": "Salta",
 "localidad": "Tartagal"},
+  
+{ "nombre_evento": "Festival por aniversario del Club Atlético Libertad",
+"descripcion": "Evento familiar con músicos locales",
+"dia": 12,
+"mes": "enero",
+"hora": "15",
+"provincia": "Salta",
+"localidad": "Tartagal"},
 
 { "nombre_evento": "Concierto de piano",
 "descripcion": "concierto del pianista Ezequiel Sarubbi",
 "dia": 25,
-"mes": "julio",
+"mes": "setiembre",
 "hora": "20:30" ,
 "provincia": "Salta",
 "localidad": "Salta" }]}
